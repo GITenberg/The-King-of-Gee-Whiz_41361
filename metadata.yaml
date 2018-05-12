@@ -1,0 +1,46 @@
+_repo: The-King-of-Gee-Whiz_41361
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Nesbit, Wilbur D. (Wilbur Dick)
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '40120'
+    url: http://www.gutenberg.org/2009/agents/40120
+  illustrator:
+    agent_name: Cesare, Oscar Edward
+    aliases:
+    - Cesare
+    - Cesare, Oscar E.
+    birthdate: 1885
+    deathdate: 1948
+    gutenberg_agent_id: '41139'
+    url: http://www.gutenberg.org/2009/agents/41139
+covers:
+- cover_type: archival
+  image_path: 41361-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hough, Emerson
+    birthdate: 1857
+    deathdate: 1923
+    gutenberg_agent_id: '1094'
+    url: http://www.gutenberg.org/2009/agents/1094
+    wikipedia: http://en.wikipedia.org/wiki/Emerson_Hough
+description: ''
+gutenberg_issued: '2012-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: The King of Gee-Whiz
+url: http://www.gutenberg.org/ebooks/41361
